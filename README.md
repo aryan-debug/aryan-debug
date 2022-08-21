@@ -1,18 +1,11 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Aryan Arora</h1>
 <h3 align="center">A passionate full-stack developer who loves to learn and play around with new technologies.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-debug" alt="aryan-debug" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aryan_debugs" target="blank"><img src="https://img.shields.io/twitter/follow/aryan_debugs?logo=twitter&style=for-the-badge" alt="aryan_debugs" /></a> </p>
 
 - 🔭 I’m currently working on [Gamer's Paradise](https://github.com/aryan-debug/gamer_paradise)
 
 - 🌱 I’m currently learning **Express**
 
 - 💬 Ask me about **Python and JavaScript**
-
-- ⚡ Fun fact - My last name is a palindrome.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
